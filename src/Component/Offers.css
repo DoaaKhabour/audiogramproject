@@ -1,0 +1,42 @@
+
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: center;
+    background-color: #9ac3df ;
+    width: 300px;
+    align-items: center;
+    align-content: center;
+
+  }
+
+  .Label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 20px;
+    padding: 5px;
+    background-color: black ;
+ }
+ 
+  div.gallery:hover {
+    border: 1px solid #777;
+
+
+  }
+  div.gallery img {
+    width: 300px;
+    height:300px;
+  }
+  
+  div.desc {
+    padding: 6px;
+    text-align: center;
+    width: 300px;
+    height:300px;
+
+  }
+  .div{
+
+    width: 25%;
+    height:300px;
+  }

@@ -1,0 +1,13 @@
+.table, td, th {
+    background-color:#11a77a;
+    border: 1px solid #9ac3df ;
+      text-align: left;
+    
+      color: white;
+      font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+      border-collapse: collapse;
+      width: 10%;
+      border: 1px solid #ddd;
+      padding: 8px;
+  
+    }

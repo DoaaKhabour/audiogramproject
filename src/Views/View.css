@@ -1,0 +1,108 @@
+.table, td, th {
+  background-color:#9ac3df;
+  border: 1px solid #9ac3df ;
+    text-align: left;
+  
+    color: white;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 10%;
+    border: 1px solid #ddd;
+    padding: 8px;
+
+  }
+  .table {
+    background-color: #214370;
+
+  
+  }
+  .footer {
+    background-color: #214370;
+    padding: 10px;
+    text-align: center;
+  }
+  .center {
+    margin: auto;
+    width: 30%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+  }
+  
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+  .header {
+    background-color: #214370;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .App-header {
+
+   background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.table, td, th {
+
+  width: 25% ;
+  box-align:  center ;
+border: 1px solid black;
+
+}
+td{ width: 25% ;
+  box-align:  center ;
+border: 1px solid black;
+
+
+}
+.View{
+  width: 100%;
+  align-content: center;
+  align-items: center;
+
+}
+
+.Label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 20px;
+  background-color: #214370 ;
+}

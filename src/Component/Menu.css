@@ -1,0 +1,33 @@
+
+    .label{
+        background-color: #333 ;
+        font-weight: bold;
+     }
+     .input {        padding: 15px 32px;
+
+
+     }
+
+
+    .table, td, th {
+        display : 50% ;
+        width: 50% ;
+        box-align:  center ;
+        border: 1px solid rgb(219, 40, 40);
+      
+      }
+
+    .button {
+        background-color: rgb(68, 91, 221); 
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+    
+

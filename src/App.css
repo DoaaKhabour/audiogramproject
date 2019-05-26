@@ -1,0 +1,126 @@
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+}
+
+.button {
+  background-color: rgb(18, 79, 129); 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.App {
+  
+   background-image: "https://scontent.famm2-1.fna.fbcdn.net/v/t1.0-9/57026410_2166188700358210_900164191065735168_n.jpg?_nc_cat=101&_nc_eui2=AeHxnnxfDMHOUxQ8P1xKPgIVtlAW2jKX67VuzjFoFLR0HYiqwGLHxn-TmOFauSvfjcHqn16oo5ORxJ2SvwNvLoYmeMtkzZK5ccuLnjnDFZujPQ&_nc_ht=scontent.famm2-1.fna&oh=78cc07d808ae83b6fcb5b3f2f0b217e5&oe=5D62515C";
+  color: white;
+  font-size: 1.8rem;
+  text-align: center;
+  padding: 20px 0;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 20px auto;
+  box-shadow: 0 2px 3px #ccc;
+  text-align: center;
+
+
+
+}
+
+.Label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 20px;
+  background-color: #cdf01d;
+  color: #111110
+  
+}
+
+.App-logo {
+animation: App-logo-spin infinite 20s linear;
+height: 40vmin;
+pointer-events: none;
+}
+
+.App-header {
+background-color: #cdf01d;
+min-height: 100vh;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+font-size: calc(10px + 2vmin);
+color: white;
+
+
+}
+.header {
+background-color: rgb(218, 20, 20);
+text-align: center;
+padding: 20px;
+
+}
+
+.App-link {
+color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+from {
+  transform: rotate(0deg);
+}
+to {
+  transform: rotate(360deg);
+}
+}
+
+.table, td, th {
+
+  width: 50% ;
+  box-align:  center ;
+border: 1px solid rgb(224, 41, 41);
+
+}
+
+body {
+  background-image: url("https://scontent.famm2-1.fna.fbcdn.net/v/t1.0-9/57026410_2166188700358210_900164191065735168_n.jpg?_nc_cat=101&_nc_eui2=AeHxnnxfDMHOUxQ8P1xKPgIVtlAW2jKX67VuzjFoFLR0HYiqwGLHxn-TmOFauSvfjcHqn16oo5ORxJ2SvwNvLoYmeMtkzZK5ccuLnjnDFZujPQ&_nc_ht=scontent.famm2-1.fna&oh=78cc07d808ae83b6fcb5b3f2f0b217e5&oe=5D62515C");
+  background-repeat: repeat;
+  background-size: 100% ;
+
+
+}
+
+
+.App-div{
+  background-color: aqua ;
+
+}
+
+
+
